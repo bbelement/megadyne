@@ -1,0 +1,112 @@
+[11-Jan-2013 12:04:41] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/top.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home4/studioel/public_html/megadyne/testsite/index.php on line 10
+[14-Jan-2013 15:39:44] PHP Warning:  file(navigation.txt) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 5
+[14-Jan-2013 15:39:44] PHP Warning:  Invalid argument supplied for foreach() in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 7
+[14-Jan-2013 15:40:31] PHP Warning:  file(navigation.txt) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 5
+[14-Jan-2013 15:40:31] PHP Warning:  Invalid argument supplied for foreach() in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 7
+[14-Jan-2013 15:41:04] PHP Warning:  file(navigation.txt) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 5
+[14-Jan-2013 15:41:04] PHP Warning:  Invalid argument supplied for foreach() in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 7
+[14-Jan-2013 15:42:47] PHP Warning:  file(navigation.txt) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 5
+[14-Jan-2013 15:42:47] PHP Warning:  Invalid argument supplied for foreach() in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 7
+[14-Jan-2013 15:42:49] PHP Warning:  file(navigation.txt) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 5
+[14-Jan-2013 15:42:49] PHP Warning:  Invalid argument supplied for foreach() in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 7
+[14-Jan-2013 15:43:40] PHP Warning:  file(navigation.txt) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 5
+[14-Jan-2013 15:43:40] PHP Warning:  Invalid argument supplied for foreach() in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 7
+[14-Jan-2013 15:43:45] PHP Warning:  file(navigation.txt) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 5
+[14-Jan-2013 15:43:45] PHP Warning:  Invalid argument supplied for foreach() in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 7
+[14-Jan-2013 15:50:16] PHP Warning:  file(navigation.txt) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 9
+[14-Jan-2013 15:50:16] PHP Warning:  Invalid argument supplied for foreach() in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 11
+[14-Jan-2013 15:50:16] PHP Fatal error:  Call to undefined function  navigation() in /home4/studioel/public_html/megadyne/testsite/template/header.php on line 28
+[14-Jan-2013 15:50:46] PHP Parse error:  syntax error, unexpected '*' in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 26
+[14-Jan-2013 15:50:49] PHP Parse error:  syntax error, unexpected '*' in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 26
+[14-Jan-2013 15:51:33] PHP Warning:  file(navigation.txt) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 9
+[14-Jan-2013 15:51:33] PHP Warning:  Invalid argument supplied for foreach() in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 11
+[14-Jan-2013 15:52:13] PHP Parse error:  syntax error, unexpected '}' in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 31
+[14-Jan-2013 15:52:16] PHP Parse error:  syntax error, unexpected '}' in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 31
+[14-Jan-2013 15:52:26] PHP Warning:  file(navigation.txt) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 9
+[14-Jan-2013 15:54:24] PHP Warning:  fopen(navigation.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 9
+[14-Jan-2013 15:54:26] PHP Warning:  fopen(navigation.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 9
+[14-Jan-2013 15:56:44] PHP Warning:  file_get_contents(navigation.txt) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 9
+[14-Jan-2013 15:56:46] PHP Warning:  file_get_contents(navigation.txt) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 9
+[14-Jan-2013 15:57:08] PHP Warning:  file_get_contents(navigation.txt) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 9
+[14-Jan-2013 15:57:10] PHP Warning:  file_get_contents(navigation.txt) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 9
+[14-Jan-2013 15:58:30] PHP Warning:  file_get_contents(navigation.txt) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 9
+[14-Jan-2013 16:00:43] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 10
+[14-Jan-2013 16:00:45] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 10
+[14-Jan-2013 16:14:06] PHP Parse error:  syntax error, unexpected $end in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 52
+[14-Jan-2013 16:35:52] PHP Warning:  Invalid argument supplied for foreach() in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 34
+[14-Jan-2013 16:35:52] PHP Warning:  Invalid argument supplied for foreach() in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 7
+[14-Jan-2013 16:36:24] PHP Warning:  Invalid argument supplied for foreach() in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 34
+[14-Jan-2013 16:36:24] PHP Warning:  Invalid argument supplied for foreach() in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 7
+[14-Jan-2013 16:37:25] PHP Warning:  Invalid argument supplied for foreach() in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 34
+[14-Jan-2013 16:37:25] PHP Warning:  Invalid argument supplied for foreach() in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 7
+[14-Jan-2013 16:39:07] PHP Warning:  Invalid argument supplied for foreach() in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 34
+[14-Jan-2013 16:39:07] PHP Warning:  Invalid argument supplied for foreach() in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 7
+[14-Jan-2013 16:40:02] PHP Warning:  Invalid argument supplied for foreach() in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 13
+[14-Jan-2013 16:41:11] PHP Warning:  Invalid argument supplied for foreach() in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 10
+[14-Jan-2013 16:41:13] PHP Warning:  Invalid argument supplied for foreach() in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 10
+[14-Jan-2013 16:41:25] PHP Warning:  Invalid argument supplied for foreach() in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 10
+[14-Jan-2013 16:41:27] PHP Warning:  Invalid argument supplied for foreach() in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 10
+[15-Jan-2013 16:23:03] PHP Parse error:  syntax error, unexpected '<' in /home4/studioel/public_html/megadyne/testsite/template/header.php on line 4
+[15-Jan-2013 16:25:47] PHP Parse error:  syntax error, unexpected '<' in /home4/studioel/public_html/megadyne/testsite/template/header.php on line 4
+[15-Jan-2013 17:37:26] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 33
+[15-Jan-2013 17:39:48] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 32
+[16-Jan-2013 10:36:18] PHP Parse error:  syntax error, unexpected T_ARRAY, expecting ')' in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 27
+[16-Jan-2013 10:39:35] PHP Parse error:  syntax error, unexpected T_ARRAY, expecting ')' in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 27
+[16-Jan-2013 10:39:37] PHP Parse error:  syntax error, unexpected T_ARRAY, expecting ')' in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 27
+[16-Jan-2013 10:41:37] PHP Parse error:  syntax error, unexpected T_ARRAY, expecting ')' in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 27
+[16-Jan-2013 10:41:39] PHP Parse error:  syntax error, unexpected T_ARRAY, expecting ')' in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 27
+[16-Jan-2013 10:42:03] PHP Parse error:  syntax error, unexpected T_ARRAY, expecting ')' in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 27
+[16-Jan-2013 10:42:44] PHP Parse error:  syntax error, unexpected T_ARRAY, expecting ')' in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 26
+[16-Jan-2013 10:58:27] PHP Warning:  Cannot use a scalar value as an array in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 36
+[16-Jan-2013 10:58:27] PHP Warning:  Cannot use a scalar value as an array in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 36
+[16-Jan-2013 10:58:27] PHP Warning:  Cannot use a scalar value as an array in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 36
+[16-Jan-2013 10:58:27] PHP Warning:  Cannot use a scalar value as an array in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 36
+[16-Jan-2013 10:58:27] PHP Warning:  Cannot use a scalar value as an array in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 36
+[16-Jan-2013 10:58:27] PHP Warning:  Cannot use a scalar value as an array in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 36
+[16-Jan-2013 10:58:27] PHP Warning:  Cannot use a scalar value as an array in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 36
+[16-Jan-2013 10:58:27] PHP Warning:  Cannot use a scalar value as an array in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 36
+[16-Jan-2013 10:58:27] PHP Warning:  Cannot use a scalar value as an array in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 36
+[16-Jan-2013 10:58:29] PHP Warning:  Cannot use a scalar value as an array in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 36
+[16-Jan-2013 10:58:29] PHP Warning:  Cannot use a scalar value as an array in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 36
+[16-Jan-2013 10:58:29] PHP Warning:  Cannot use a scalar value as an array in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 36
+[16-Jan-2013 10:58:29] PHP Warning:  Cannot use a scalar value as an array in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 36
+[16-Jan-2013 10:58:29] PHP Warning:  Cannot use a scalar value as an array in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 36
+[16-Jan-2013 10:58:29] PHP Warning:  Cannot use a scalar value as an array in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 36
+[16-Jan-2013 10:58:29] PHP Warning:  Cannot use a scalar value as an array in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 36
+[16-Jan-2013 10:58:29] PHP Warning:  Cannot use a scalar value as an array in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 36
+[16-Jan-2013 10:58:29] PHP Warning:  Cannot use a scalar value as an array in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 36
+[16-Jan-2013 10:58:47] PHP Warning:  Cannot use a scalar value as an array in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 36
+[16-Jan-2013 10:59:17] PHP Warning:  Invalid argument supplied for foreach() in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 36
+[16-Jan-2013 10:59:17] PHP Warning:  Invalid argument supplied for foreach() in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 36
+[16-Jan-2013 10:59:17] PHP Warning:  Invalid argument supplied for foreach() in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 36
+[16-Jan-2013 10:59:17] PHP Warning:  Invalid argument supplied for foreach() in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 36
+[16-Jan-2013 11:00:03] PHP Warning:  Illegal offset type in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 36
+[16-Jan-2013 11:00:03] PHP Warning:  Invalid argument supplied for foreach() in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 36
+[16-Jan-2013 11:00:03] PHP Warning:  Illegal offset type in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 36
+[16-Jan-2013 11:00:03] PHP Warning:  Invalid argument supplied for foreach() in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 36
+[16-Jan-2013 11:00:03] PHP Warning:  Illegal offset type in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 36
+[16-Jan-2013 11:00:03] PHP Warning:  Invalid argument supplied for foreach() in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 36
+[16-Jan-2013 11:00:03] PHP Warning:  Illegal offset type in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 36
+[16-Jan-2013 11:00:03] PHP Warning:  Invalid argument supplied for foreach() in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 36
+[16-Jan-2013 11:00:17] PHP Warning:  Illegal offset type in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 36
+[16-Jan-2013 11:00:17] PHP Warning:  Invalid argument supplied for foreach() in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 36
+[16-Jan-2013 11:00:17] PHP Warning:  Illegal offset type in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 36
+[16-Jan-2013 11:00:17] PHP Warning:  Invalid argument supplied for foreach() in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 36
+[16-Jan-2013 11:00:17] PHP Warning:  Illegal offset type in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 36
+[16-Jan-2013 11:00:17] PHP Warning:  Invalid argument supplied for foreach() in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 36
+[16-Jan-2013 11:00:17] PHP Warning:  Illegal offset type in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 36
+[16-Jan-2013 11:00:17] PHP Warning:  Invalid argument supplied for foreach() in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 36
+[16-Jan-2013 11:00:35] PHP Warning:  Invalid argument supplied for foreach() in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 35
+[16-Jan-2013 11:11:54] PHP Parse error:  syntax error, unexpected T_ECHO in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 39
+[16-Jan-2013 11:21:14] PHP Parse error:  syntax error, unexpected ')' in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 39
+[16-Jan-2013 11:21:16] PHP Parse error:  syntax error, unexpected ')' in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 39
+[16-Jan-2013 11:22:13] PHP Parse error:  syntax error, unexpected ')' in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 39
+[16-Jan-2013 11:22:14] PHP Parse error:  syntax error, unexpected ')' in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 39
+[16-Jan-2013 11:22:48] PHP Parse error:  syntax error, unexpected ')' in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 39
+[16-Jan-2013 11:22:49] PHP Parse error:  syntax error, unexpected ')' in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 39
+[16-Jan-2013 11:24:50] PHP Parse error:  syntax error, unexpected ')' in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 39
+[16-Jan-2013 11:51:09] PHP Fatal error:  Call to undefined function  nav_loop() in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 58
+[16-Jan-2013 11:51:39] PHP Fatal error:  Call to undefined function  nav_loop() in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 58
+[16-Jan-2013 11:51:41] PHP Fatal error:  Call to undefined function  nav_loop() in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 58
+[16-Jan-2013 11:53:45] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 89
+[16-Jan-2013 11:53:47] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home4/studioel/public_html/megadyne/testsite/template/functions.php on line 89
