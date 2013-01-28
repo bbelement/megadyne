@@ -14,6 +14,7 @@
 	    		<figure>
 	    			<a href="#">
 	    				<img src="images/home/slider1.png" alt="slider1" width="100%" />
+	    				<div class="slider_title"> This is a title</div>
 	    			</a>
 	    		</figure>
 	    		<figure>
@@ -35,7 +36,7 @@
 	    </div>
  </div>
     <div class="full_width_buttons">
-    	<a href="#" class="banner">
+    	<a  href="#" class="banner">
         	<img src="images/sample/banner1.png"/>
         </a>
         <a href="#" class="banner">
@@ -62,7 +63,7 @@
 	        <a href="#"><img src="images/home/btn_electrode.png" alt="btn_electrode" width="83" height="82" /><div class="home_button_title">Mega Soft&reg; Return Electrode</div></a>
 
         </div>
-        <a class="bodylink" href="#">View All Products</a>
+        <a class="bodylink shadow" href="#">View All Products</a>
     </div>
     
     <div class="sidebar_right">

@@ -267,6 +267,12 @@ body {
 	overflow: hidden;
 }
 
+.slider_title {
+	color: white;
+	margin-top: -25px;
+	z-index: 10;
+}
+
 .full_width_buttons {
 	width: 110%;
 	display: block;
@@ -391,6 +397,7 @@ h4 {
 .banner img{
 	margin-bottom: 15px;
 	margin-left: -5px;
+	border-radius: 7px;
 }
 
 .bodylink {

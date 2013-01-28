@@ -4,19 +4,37 @@
      
 	    $('.home_buttons a').hover(
 	        function () {
-	            //show its submenu
+	            //show its Title
 	            $('div', this).stop().slideDown(200);
 	 
 	        }, 
 	        function () {
-	            //hide its submenu
+	            //hide its Title
 	            $('div', this).stop().slideUp(200);          
 	        }
 	    );
      
     });
     
-    
+//Shadow Animation
+/*
+$(document).ready(function () { 
+     
+	    $('.banner img').hover(
+	        function () {
+	            //show its Title
+	            $(this).stop().animate({boxShadow: '0 0 30px #ffffff'});
+	 
+	        }, 
+	        function () {
+	            //hide its Title
+	            $(this).stop().animate({boxShadow: '0 0 0px #ffffff'});          
+	        }
+	    );
+     
+    });
+*/
+
 //Navigation Dropdown Animation
 
 	$(document).ready(function () { 
