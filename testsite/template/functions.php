@@ -94,4 +94,30 @@ function  top_navigation()
 		
 };
 
+function sidebar_content()
+{
+
+mysql_connect($db_address, $db_username, $db_password) or die(mysql_error());
+mysql_select_db($db_db) or die(mysql_error());
+
+$query = "SELECT *
+		FROM sidebar
+		WHERE sidebar.publish = true
+		AND sidebar.feature = true
+		ORDER BY date_created";
+		
+		$result = mysql_query($query) or die(mysql_error());
+
+		while($row = mysql_fetch_array($result)){
+			echo "<h3>" . $row['title'] . "</h3>";
+			echo "<p>" . $row['abstract'] . "</p>";
+			if ($row['link'] == "self") {
+				echo "<a href = " . $row['link'] . " class='bodylink'>View</a>";
+			}elseif ($row['link'] != "") {
+				echo "<a href = " . $row['link'] . " class='bodylink'>View</a>";
+			};
+		};
+};
+
+
 ?>

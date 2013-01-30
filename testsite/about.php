@@ -24,12 +24,7 @@
         <a href="#" class="banner">
         	<img src="images/sample/banner2.png"/>
         </a>
-        <h3>Consectetur adipisicing elit</h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore</p>
-        <h3>Fugiat nulla pariatur</h3>
-        <p>magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-        <h3>Consectetur adipisicing elit</h3>
-        <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <?php sidebar_content(); ?>
     </div>
     
 </body>

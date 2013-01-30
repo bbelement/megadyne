@@ -15,11 +15,12 @@
 <?php
 
 include 'template/functions.php';
+include 'template/config.php';
+
 ?>
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js" type="text/javascript"></script>
 <script src="template/js/animations.js"></script>
-<!-- <script src="template/js/jquery.animate-shadow.js"></script> -->
 
 
 <!-Page Header Elements-->
